@@ -1,1 +1,3 @@
-# Used-Car-prediction-
+# Used-Car-prediction
+The focus of this project is developing machine learning models that can accurately predict the price of a used car based on its features, so as to create knowing purchases. In this project, I was asked to experiment with a real world dataset, data have been collected from varied sources and   distributed across varied locations in India. I was expected to explore machine learning and gain information regarding different Machine learning algorithms such as Linear Regression and Random Forest Algorithm.  After performing the required tasks on a dataset, it has been seen that Random Forest Algorithm yields better results than Linear Regression Algorithm.
+ 
